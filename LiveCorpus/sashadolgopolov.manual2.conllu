@@ -1,9 +1,9 @@
 1	слушай	слушать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@ash1989m#@ash1989m#0.0#0.181
 2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@ash1989m#@ash1989m#0.181#0.362
-3	с	с	ADP	_	_	_	_	_	words@ash1989m#@ash1989m#0.362#0.543	_	_	_
-4	тобой	ты	PRON	_	Case=Ins|Number=Sing|Person=2	_	_	_	words@ash1989m#@ash1989m#0.543#0.724_	_	_
+3	с	с	ADP	_	_	_	_	_	words@ash1989m#@ash1989m#0.362#0.543
+4	тобой	ты	PRON	_	Case=Ins|Number=Sing|Person=2	_	_	_	words@ash1989m#@ash1989m#0.543#0.724
 5	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ash1989m#@ash1989m#0.724#0.905
-6	о	о	ADP	_	_	_	_	_	words@ash1989m#@ash1989m#0.905#1.086	_	_	_
+6	о	о	ADP	_	_	_	_	_	words@ash1989m#@ash1989m#0.905#1.086
 7	чем	что	PRON	_	Case=Loc	_	_	_	words@ash1989m#@ash1989m#1.086#1.267_
 8	хотел	хотеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ash1989m#@ash1989m#1.267#1.448
 9	поговорить	поговорить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@ash1989m#@ash1989m#1.448#1.629
