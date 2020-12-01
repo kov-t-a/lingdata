@@ -1,1 +1,1 @@
-В файле chichvarkinvarlamov лежит то же самое, что и в kovtunt.manual1, но уже прогнанный через UDPipe и названный по правильной латинской метке
+файл chichvarkinvarlamov_manual1.conllu нужен, чтобы вы видели, что я сдала все вовремя, и все
