@@ -1390,7 +1390,7 @@ pos@iav1984m	@iav1984m	5709.255	5709.679	ADJ
 pos@iav1984m	@iav1984m	5709.679	5710.103	NOUN
 pos@iav1984m	@iav1984m	5710.103	5710.527	NOUN
 pos@iav1984m	@iav1984m	5710.527	5710.951	NOUN
-pos@iav1984m	@iav1984m	5710.951	5711.378	
+pos@iav1984m	@iav1984m	5710.951	5711.378	PUNKT
 pos@iav1984m	@iav1984m	5711.385	5711.645	ADV
 pos@iav1984m	@iav1984m	5711.645	5711.905	PUNCT
 pos@iav1984m	@iav1984m	5711.905	5712.167	PUNCT
@@ -1651,7 +1651,7 @@ pos@iav1984m	@iav1984m	5867.52	5867.701	PUNCT
 pos@iav1984m	@iav1984m	5867.734	5867.923	DET
 pos@iav1984m	@iav1984m	5867.923	5868.112	DET
 pos@iav1984m	@iav1984m	5868.112	5868.301	NOUN
-pos@iav1984m	@iav1984m	5868.301	5868.49	
+pos@iav1984m	@iav1984m	5868.301	5868.49	PUNCT
 pos@iav1984m	@iav1984m	5869.178	5869.373	PRON
 pos@iav1984m	@iav1984m	5869.373	5869.568	ADP
 pos@iav1984m	@iav1984m	5869.568	5869.763	DET
@@ -2314,7 +2314,7 @@ gram@iav1984m	@iav1984m	5709.255	5709.679	Case=Loc|Degree=gram|Number=Plur
 gram@iav1984m	@iav1984m	5709.679	5710.103	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur
 gram@iav1984m	@iav1984m	5710.103	5710.527	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur
 gram@iav1984m	@iav1984m	5710.527	5710.951	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing
-gram@iav1984m	@iav1984m	5710.951	5711.378	
+gram@iav1984m	@iav1984m	5710.951	5711.378	_
 gram@iav1984m	@iav1984m	5711.385	5711.645	Degree=gram
 gram@iav1984m	@iav1984m	5711.645	5711.905	_
 gram@iav1984m	@iav1984m	5711.905	5712.167	_
